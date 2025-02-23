@@ -1,0 +1,19 @@
+.dive{
+    height: 400px;
+    width: 400px;
+    background-color: burlywood;
+    text-align: center;
+    justify-content: center;
+}
+
+.plus{
+    margin-right: 10px;
+}
+.count{
+
+    font-size: 50px;
+}
+
+.minus{
+    margin-left: 20px;
+}
